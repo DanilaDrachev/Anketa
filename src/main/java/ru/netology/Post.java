@@ -1,7 +1,7 @@
 package ru.netology;
 
 public class Post {
-    FormDate birthday = new FormDate();
+    public FormDate birthday;
     public String name;
     public String passport;
     public String patronymic;
